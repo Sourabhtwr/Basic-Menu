@@ -1,3 +1,3 @@
-# Basic-Menu
+# Basic-Menu Project
 Basic Menu for Restaurant
 
